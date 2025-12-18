@@ -1,0 +1,1 @@
+// Tailwind v4 doesn't need config file - everything is in CSS
